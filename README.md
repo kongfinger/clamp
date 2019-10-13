@@ -4,8 +4,9 @@ free-ware, open source modern accounting app programmed in LAMP
 to install:
 
 1. download XAMPP
-2. load phpmyadmin in localhost browser
-3. import daka.sql
+2. start Apache and MySQL
+3. load phpmyadmin in localhost browser
+4. import daka.sql
 
 TODO:
 
