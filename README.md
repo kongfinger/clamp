@@ -18,3 +18,6 @@ SOURCES:
 1.  instructions to download XAMPP: https://www.apachefriends.org/download.html
 2.  mysql schema tables: https://stackoverflow.com/a/15583160
 3.  chart of accounts: https://www.accountingcoach.com/chart-of-accounts/explanation
+4.  financial analysis metrics bibliographic citation: 
+
+“Corporate Finance for Dummies.” Corporate Finance for Dummies, by Michael Taillard, John Wiley, 2013, pp. 73–95.
