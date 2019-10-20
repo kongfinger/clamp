@@ -21,3 +21,11 @@ SOURCES:
 4.  financial analysis metrics bibliographic citation: 
 
 “Corporate Finance for Dummies.” Corporate Finance for Dummies, by Michael Taillard, John Wiley, 2013, pp. 73–95.
+
+TODO:
+
+I am considering Python for archiving and finance metrics encapsulated as serialized objects in an OO database according to this research paper:
+
+https://docs.google.com/document/d/17Y_Y1Qc3tLRHEld70q0Mp5qM42EW6orLnnYZyIon3AQ
+
+Persistent objects may be a good choice for archiving legacy data by month, quarter, and annual cycles running Python scripts temporally from cron and for this would need to expand the database schema with a long blob serialized object table
